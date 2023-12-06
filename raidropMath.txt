@@ -1,0 +1,22 @@
+game idea
+raindrops mathametics
+1st step make a playable game that gives problem to user to slove within a limited time
+1.it gives a problem either +-/*    --done
+2.solve with in time else will fail     --done
+3.show score at end     --done
+in future add GUI	--done
+add pause --done
+multiple levels with increasing difficulties
+add start page -- done
+add database--done
+add animations like clear sky before game starts then becomes cloudy ... done
+sky becomes clear after game is over --done
+add special features to some circles
+maybe multiple environments
+
+----Game condition----
+raindrops will fall in waves and will continue as long as player pops equal or more than 20% of drops
+if u miss more than 20% of total no of drops then it will be game over
+
+
+
